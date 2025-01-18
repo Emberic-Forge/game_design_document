@@ -1,2 +1,2 @@
-# labyrinth-of-the-abyss-gdd
+# Game Design Document
 The game design document for labyrinth of the abyss.
