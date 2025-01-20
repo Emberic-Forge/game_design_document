@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "ade3ce3d14cce8fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1c7629abb565106",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f627f8d33b239539",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Code Structure/Interaction System.canvas",
+                "viewState": {
+                  "x": -190,
+                  "y": -218.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Interaction System"
+            }
+          },
+          {
+            "id": "f99adbc9cbcca6f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story Lore/Titus' Version of The Story.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Titus' Version of The Story"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "544163a10c49ce4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "522c0eaf02f77e26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1e6a456e230f9b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5c4a9b0c3bdbd3b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1cc036e351eabf15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85e4f15975eb8298",
+    "type": "split",
+    "children": [
+      {
+        "id": "90ff8bfc26ed3c68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3c2329e59525a17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scurmboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Scurmboard"
+            }
+          },
+          {
+            "id": "86f66f9c6a72f133",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scurmboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Scurmboard"
+            }
+          },
+          {
+            "id": "6764a876ae4c0440",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e176c92d2a4f692",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scurmboard.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Scurmboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "f99adbc9cbcca6f4",
+  "lastOpenFiles": [
+    "Story Lore/Titus notes.md",
+    "Story Lore/The Prologue I.E Tutorial Sequence.md",
+    "Story Lore/Titus' Version of The Story.md",
+    "Labyrinth of the Abyss - Design Document.md",
+    "Scurmboard.md",
+    "Level 1 Scenes.canvas",
+    "Code Structure/Interaction System.canvas",
+    "Code Structure/Drawing 2024-12-01 16.36.25.excalidraw.md",
+    "Code Structure/Input Manager.md",
+    "Standards/Version Control.md",
+    "Enemies.md",
+    "Story Lore/Logan' Version of The Story Notes.md",
+    "Item Codex/Ranged Weaponry/Bow.md",
+    "Item Codex.md",
+    "Item Codex/Ranged Weaponry/Longbow.md",
+    "Story Lore/Small little details.md",
+    "Untitled.canvas",
+    "20240716193720_1.jpg",
+    "Excalidraw/Drawing 2024-11-29 20.55.51.excalidraw.md",
+    "Excalidraw",
+    "Titus' Version of The Story.md",
+    "Code Structure",
+    "Item Codex/Steel Weaponry/Steel Axe.md",
+    "Getting Started/Example Images/Pasted image 20241125222652.png",
+    "Standards/Coding.md",
+    "Standards/Asset Management.md",
+    "Standards",
+    "Getting Started/Gitkraken.md",
+    "Getting Started/Example Images/Pasted image 20241126225010.png",
+    "Getting Started/Example Images/Pasted image 20241126224748.png",
+    "Getting Started/Example Images/Pasted image 20241126221428.png",
+    "Getting Started/Example Images/Pasted image 20241126192453.png",
+    "Getting Started/Example Images/Pasted image 20241126192055.png",
+    "Getting Started/Example Images/Pasted image 20241126191902.png",
+    "Getting Started/Example Images/Pasted image 20241126184353.png",
+    "Getting Started/Example Images/Pasted image 20241126184110.png",
+    "Getting Started/Example Images",
+    "Getting Started",
+    "Concept Art",
+    "Excalidraw/Drawing 2024-11-25 20.45.10.excalidraw.md",
+    "Item Codex/Ranged Weaponry/Shortbow.md",
+    "Item Codex/Steel Weaponry/Steel Sword.md",
+    "Code Structure/Interaction System.md",
+    "Excalidraw/Drawing 2024-11-15 23.44.14.excalidraw.md",
+    "Item Codex/Ranged Weaponry",
+    "Item Codex/Steel Weaponry/Steel Greataxe.md",
+    "Item Codex/Steel Weaponry",
+    "Item Codex",
+    "Templates/Scrumboard"
+  ]
+}
