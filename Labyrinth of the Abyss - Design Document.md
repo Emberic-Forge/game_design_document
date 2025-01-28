@@ -77,7 +77,7 @@ The player starts by selecting a character of their choice from a collection of 
 ### Platform
 The game is developed to be released on Windows PC
 ### Development Software
-- Unity 6
+- Godot 4.4
 - Visual Studio Code
 - Mixamo for prototype character models and animations
 - FMOD for dynamic audio integration
