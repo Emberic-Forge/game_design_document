@@ -81,16 +81,16 @@ The Luminary Archive's relationships with other factions are shaped by their loy
 
 1. **Aurelia (Sanctum Imperium):**
     - The faction maintains a complicated relationship with Aurelia. While they are loyal to the old kingdom's ideals, they may view the current leadership as having strayed from its true path.
-        
+    
 2. **The Abyssal Choir:**
     - The faction sees the Abyssal Choir as a dangerous and heretical group, representing everything they stand against. They are constantly on guard against the Choir's influence.
-        
+    
 3. **The Crimson Coin:**
     - The faction views the Crimson Coin with suspicion, seeing them as opportunistic and untrustworthy. However, they may occasionally trade with the Coin for resources or information.
-        
+    
 4. **The Sylvan Enclave:**
     - The faction respects the Sylvan Enclave's connection to nature but sees them as overly isolationist. They may seek to collaborate with the Enclave on matters of mutual interest.
-        
+    
 
 ---
 ### **The Future of the Luminary Archive**
