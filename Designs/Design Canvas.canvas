@@ -5,7 +5,8 @@
 		{"id":"18e2f494d4a25bc5","type":"file","file":"Designs/References/215630.gif","x":1240,"y":1200,"width":1440,"height":809},
 		{"id":"f96bdf9c7aa91cd2","type":"file","file":"Designs/Sketches/UI.md","x":-4080,"y":-273,"width":3760,"height":2763},
 		{"id":"f13dc44210423f2d","type":"link","url":"https://youtu.be/BzyxhuG7aaM","x":-248,"y":2080,"width":1448,"height":820},
-		{"id":"86473a090ac4d5e4","x":1240,"y":2080,"width":1440,"height":820,"type":"link","url":"https://www.youtube.com/watch?v=ip4ay-rUGQs&t=42s"}
+		{"id":"86473a090ac4d5e4","type":"link","url":"https://www.youtube.com/watch?v=ip4ay-rUGQs&t=42s","x":1240,"y":2080,"width":1440,"height":820},
+		{"id":"3a7fb6816fcac19c","x":2720,"y":2080,"width":1440,"height":820,"type":"link","url":"https://www.youtube.com/watch?v=A2JMYQBWeig&ab_channel=Miziziziz"}
 	],
 	"edges":[]
 }
