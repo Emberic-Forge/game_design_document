@@ -81,25 +81,25 @@ The Luminary Archive's relationships with other factions are shaped by their loy
 
 1. **Aurelia (Sanctum Imperium):**
     - The faction maintains a complicated relationship with Aurelia. While they are loyal to the old kingdom's ideals, they may view the current leadership as having strayed from its true path.
-    
+        
 2. **The Abyssal Choir:**
     - The faction sees the Abyssal Choir as a dangerous and heretical group, representing everything they stand against. They are constantly on guard against the Choir's influence.
-    
+        
 3. **The Crimson Coin:**
     - The faction views the Crimson Coin with suspicion, seeing them as opportunistic and untrustworthy. However, they may occasionally trade with the Coin for resources or information.
-    
+        
 4. **The Sylvan Enclave:**
     - The faction respects the Sylvan Enclave's connection to nature but sees them as overly isolationist. They may seek to collaborate with the Enclave on matters of mutual interest.
-    
+        
 
 ---
 ### **The Future of the Luminary Archive**
 
 The Luminary Archive stands at a crossroads. Their exploration of the dungeon has yielded incredible discoveries, but it has also attracted the attention of dangerous rivals. As they delve deeper into the dungeon's mysteries, they must balance their loyalty to the past with the need to adapt to the challenges of the present.
 
-Will they succeed in uncovering the secrets of the dungeon and restoring Aurelia's greatness, or will they be consumed by the very forces they seek to understand? The answer lies in the depths of the dungeon—and in the hands of High Custodian Titus and his loyal followers.
+Will they succeed in uncovering the secrets of the dungeon and restoring Aurelia's greatness, or will they be consumed by the very forces they seek to understand? The answer lies in the depths of the dungeon—and in the hands of High Custodian Marinus and his loyal followers.
 
 ---
 
 **"Through knowledge, we endure. Through light, we prevail."**  
-—High Custodian Titus
+—High Custodian Marinus

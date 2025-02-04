@@ -1,12 +1,14 @@
 {
 	"nodes":[
-		{"id":"ac4532e15b346138","type":"file","file":"Designs/Sketches/Movement.md","x":-248,"y":-273,"width":2168,"height":1393},
-		{"id":"343bd2091fecf60c","type":"file","file":"Designs/References/215633.gif","x":-248,"y":1200,"width":1448,"height":815},
-		{"id":"18e2f494d4a25bc5","type":"file","file":"Designs/References/215630.gif","x":1240,"y":1200,"width":1440,"height":809},
-		{"id":"f96bdf9c7aa91cd2","type":"file","file":"Designs/Sketches/UI.md","x":-4080,"y":-273,"width":3760,"height":2763},
-		{"id":"f13dc44210423f2d","type":"link","url":"https://youtu.be/BzyxhuG7aaM","x":-248,"y":2080,"width":1448,"height":820},
-		{"id":"86473a090ac4d5e4","type":"link","url":"https://www.youtube.com/watch?v=ip4ay-rUGQs&t=42s","x":1240,"y":2080,"width":1440,"height":820},
-		{"id":"3a7fb6816fcac19c","x":2720,"y":2080,"width":1440,"height":820,"type":"link","url":"https://www.youtube.com/watch?v=A2JMYQBWeig&ab_channel=Miziziziz"}
+		{"id":"ac4532e15b346138","type":"file","file":"Designs/Sketches/Movement.md","x":-248,"y":-273,"width":1492,"height":713},
+		{"id":"f96bdf9c7aa91cd2","type":"file","file":"Designs/Sketches/UI.md","x":-1920,"y":-273,"width":1600,"height":1193},
+		{"id":"86473a090ac4d5e4","type":"link","url":"https://www.youtube.com/watch?v=ip4ay-rUGQs&t=42s","x":-248,"y":1600,"width":769,"height":440},
+		{"id":"3a7fb6816fcac19c","type":"link","url":"https://www.youtube.com/watch?v=A2JMYQBWeig&ab_channel=Miziziziz","x":543,"y":1600,"width":769,"height":440},
+		{"id":"343bd2091fecf60c","type":"file","file":"Designs/References/215633.gif","x":-248,"y":560,"width":724,"height":407},
+		{"id":"18e2f494d4a25bc5","type":"file","file":"Designs/References/215630.gif","x":520,"y":560,"width":724,"height":407},
+		{"id":"f13dc44210423f2d","type":"link","url":"https://youtu.be/BzyxhuG7aaM","x":-248,"y":990,"width":724,"height":440},
+		{"id":"1e0b2a8757330299","x":-248,"y":460,"width":368,"height":60,"type":"text","text":"# Movement References"},
+		{"id":"54efa1b33a78d37b","x":-248,"y":1500,"width":252,"height":60,"type":"text","text":"# Pipeline Tricks"}
 	],
 	"edges":[]
 }
